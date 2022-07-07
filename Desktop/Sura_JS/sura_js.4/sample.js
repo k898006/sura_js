@@ -1,0 +1,1 @@
+alert("Hello World!");//挨拶を表示する
